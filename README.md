@@ -17,12 +17,12 @@ $ git clone https://github.com/JhaayHacking/Brute-Force-Jhaay
 ```
 # Comando
 ```bash
-python3 Bruteforce-jhaay
+python3 Bruteforce-jhaay.py
 
 ```
 
 ## Coded By
-Jhaay (Nao tem jeito)
+Jhaay foda dms
 
 ###Como fazer 
 Primeiro de cd Brute-force-jhaay.py

@@ -24,7 +24,9 @@ python3 Bruteforce-jhaay
 ## Coded By
 Jhaay (Nao tem jeito)
 
-###De "termux-setup-storage" depois "cd downloads" apos isso vai aparecer e vc da cd(nome do script) a pasta do script depois vai pedir nome do arquivo world list e tem varias pra usar primeiro vc da "2" ponha o email logo em seguida o nome das pastas ".txt" do script e pronto se inicia o bruteforce
-
-(Abra o github deixa em versão pc e aperta em "code" vai estar verde e aperta depois baixar em zip
-Ai vc ponha o arquivo de senhas dentro da pasta e ponha o nome dele quando pedir
+###Como fazer 
+Primeiro de cd Brute-force-jhaay.py
+Depois ponhe o numero 2 
+Digite o email 
+Logo apos ponhe o nome das world list que iniciara
+O bruteforce obrigado
